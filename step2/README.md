@@ -6,4 +6,4 @@ go mod init
 go build
 ```
 
-https://adaickalavan.github.io/portfolio/golang-web-application-with-postgresql/
+https://www.alexedwards.net/blog/organising-database-access
